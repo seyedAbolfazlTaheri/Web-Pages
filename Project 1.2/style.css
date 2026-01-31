@@ -1,0 +1,40 @@
+#red{
+    color: red;
+}
+.red{
+    background-color:red;
+    width: 200px;
+    height: 200px;
+}
+#blue{
+    color: blue;
+}
+.blue{
+    background-color:blue;
+    width: 200px;
+    height: 200px;
+}
+#orange{
+    color: orange;
+}
+.orange{
+    background-color:orange;
+    width: 200px;
+    height: 200px;
+}
+#green{
+    color: green;
+}
+.green{
+    background-color:green;
+    width: 200px;
+    height: 200px;
+}
+#yellow{
+    color:yellow;
+}
+.yellow{
+    background-color:yellow;
+    width: 200px;
+    height: 200px;
+}
